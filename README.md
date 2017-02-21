@@ -15,7 +15,7 @@ YDS repository of online courses, tutorials, blogposts, etc. Bolded resource lin
   * [Courses](#courses)
   * [Blogs](#blogs)
   * [Github Repos](#github-repos)
-* **[Datasets](#datasets)
+* **[Datasets](#datasets)**
 
 ### Meta List
 
