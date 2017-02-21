@@ -81,3 +81,6 @@ This list is for interesting datasets to look into for future projects/analysis.
 
 - **[Comma.ai Self Driving Car Dataset](https://archive.org/details/comma-dataset)**
 - **[Deepgram Speech Detection Dataset](http://careers.deepgram.com/)**
+- **[Metamind WikiText Dataset](https://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/)**
+- [New York Taxi Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+- **[Quora Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)**
