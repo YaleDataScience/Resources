@@ -6,12 +6,12 @@ YDS repository of online courses, tutorials, blogposts, etc. Bolded resource lin
 
 * **[Meta List](#meta-list)**
 * **[Data Science](#data-science)**
-  * [Tutorials](#tutorials)
+  * [Tutorials](#tutorials-&-blogposts)
   * [Courses](#courses)
   * [Blogs](#blogs)
   * [Github Repos](#github-repos)
 * **[Machine Learning](#machine-learning)**
-  * [Tutorials](#tutorials-1)
+  * [Tutorials](#tutorials-&-blogposts-1)
   * [Courses](#courses-1)
   * [Blogs](#blogs-1)
   * [Github Repos](#github-repos-1)
@@ -33,7 +33,7 @@ This list contains links to other useful resource lists. Useful to start here if
 
 This list is for data science resources. Broken into tutorials and courses.
 
-#### Tutorials
+#### Tutorials & Blogposts
 
 - [Getting Started with Kaggle](https://www.dataquest.io/mission/74/getting-started-with-kaggle)
 - **[Matrix Factorization for Movie Recommendation](http://katbailey.github.io/post/matrix-factorization-with-tensorflow/)**
@@ -43,6 +43,9 @@ This list is for data science resources. Broken into tutorials and courses.
 
 #### Blogs
 
+- [Quora](https://data.quora.com/)
+- [Airbnb](https://medium.com/airbnb-engineering/tagged/data-science)
+
 #### Github Repos
 
 - [Airbnb Superset](https://github.com/airbnb/superset)
@@ -51,10 +54,14 @@ This list is for data science resources. Broken into tutorials and courses.
 
 This list is for data science resources. Broken into tutorials and courses.
 
-#### Tutorials
+#### Tutorials & Blogposts
 
 - [Intro to image processing](https://github.com/piratefsh/image-processing-101)
 - **[Making Sense of Word2Vec](https://flipboard.com/@krishpop/yds-jjjtk8f9y/making-sense-of-word2vec/a-lJtNY6mTS22sxfwjRdBY-g%3Aa%3A13370430-09661d6637%2Frare-technologies.com)**
+- **[Quora Semantic Question Matching](https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning)**
+- [Airbnb Host Preferences](https://medium.com/airbnb-engineering/how-airbnb-uses-machine-learning-to-detect-host-preferences-18ce07150fa3#.5ndbflmot)
+- [Airbnb: Designing Machine Learning Models](https://medium.com/airbnb-engineering/designing-machine-learning-models-7d0048249e69#.br7natl1g)
+- **[Airbnb: Overcoming Missing Values in a RFC](http://nerds.airbnb.com/overcoming-missing-values-in-a-rfc/)**
 
 #### Courses
 
@@ -62,13 +69,14 @@ This list is for data science resources. Broken into tutorials and courses.
 - [Udacity - Deep Learning](https://classroom.udacity.com/courses/ud730)
 - **[MIT - Self Driving Cars](http://selfdrivingcars.mit.edu/)**
 - **[UC Berkeley - Deep RL](rll.berkeley.edu/deeprlcourse/)**
-- **[UCL - RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- **[UCL - RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)**
 - **[Oxford - Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)**
 
 #### Blogs
 
 - [OpenAI](https://openai.com/blog/)
 - **[DeepMind](http://deepmind.com/blog)**
+- [Airbnb](https://medium.com/airbnb-engineering/tagged/machine-learning)
 
 #### Github Repos
 
@@ -84,3 +92,4 @@ This list is for interesting datasets to look into for future projects/analysis.
 - **[Metamind WikiText Dataset](https://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/)**
 - [New York Taxi Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 - **[Quora Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)**
+- [Airbnb Data](http://insideairbnb.com/)
