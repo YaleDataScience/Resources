@@ -11,10 +11,10 @@ YDS repository of online courses, tutorials, blogposts, etc. Bolded resource lin
   * [Blogs](#blogs)
   * [Github Repos](#github-repos)
 * **[Machine Learning](#machine-learning)**
-  * [Tutorials](#tutorials)
-  * [Courses](#courses)
-  * [Blogs](#blogs)
-  * [Github Repos](#github-repos)
+  * [Tutorials](#tutorials-1)
+  * [Courses](#courses-1)
+  * [Blogs](#blogs-1)
+  * [Github Repos](#github-repos-1)
 * **[Datasets](#datasets)**
 
 ### Meta List
