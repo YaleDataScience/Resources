@@ -15,6 +15,7 @@ YDS repository of online courses, tutorials, blogposts, etc. Bolded resource lin
   * [Courses](#courses)
   * [Blogs](#blogs)
   * [Github Repos](#github-repos)
+* **[Datasets](#datasets)
 
 ### Meta List
 
@@ -73,3 +74,10 @@ This list is for data science resources. Broken into tutorials and courses.
 
 - [Krishpop's Github Stars](https://github.com/krishpop?tab=stars)
 - **[OpenAI Gym Bandits](https://github.com/JKCooper2/gym-bandits)**
+
+### Datasets
+
+This list is for interesting datasets to look into for future projects/analysis.
+
+- **[Comma.ai Self Driving Car Dataset](https://archive.org/details/comma-dataset)**
+- **[Deepgram Speech Detection Dataset](http://careers.deepgram.com/)**
