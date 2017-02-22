@@ -41,6 +41,8 @@ This list is for data science resources. Broken into tutorials and courses.
 
 #### Courses
 
+- [Stanford - Mining of Massive Datasets](http://web.stanford.edu/class/cs246/)
+
 #### Blogs
 
 - [Quora](https://data.quora.com/)
