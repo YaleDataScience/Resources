@@ -72,7 +72,7 @@ This list is for data science resources. Broken into tutorials and courses.
 - [Coursera - Machine Learning](coursera.org/learn/machine-learning)
 - [Udacity - Deep Learning](https://classroom.udacity.com/courses/ud730)
 - **[MIT - Self Driving Cars](http://selfdrivingcars.mit.edu/)**
-- **[UC Berkeley - Deep RL](rll.berkeley.edu/deeprlcourse/)**
+- **[UC Berkeley - Deep RL](http://rll.berkeley.edu/deeprlcourse/)**
 - **[UCL - RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)**
 - **[Oxford - Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)**
 - **UC Berkeley - Special Topics in Deep Learning**
