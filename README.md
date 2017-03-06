@@ -6,12 +6,12 @@ YDS repository of online courses, tutorials, blogposts, etc. Bolded resource lin
 
 * **[Meta List](#meta-list)**
 * **[Data Science](#data-science)**
-  * [Tutorials](#tutorials-&-blogposts)
+  * [Tutorials](#tutorials--blogposts)
   * [Courses](#courses)
   * [Blogs](#blogs)
   * [Github Repos](#github-repos)
 * **[Machine Learning](#machine-learning)**
-  * [Tutorials](#tutorials-&-blogposts-1)
+  * [Tutorials](#tutorials--blogposts-1)
   * [Courses](#courses-1)
   * [Blogs](#blogs-1)
   * [Github Repos](#github-repos-1)
@@ -86,6 +86,8 @@ This list is for data science resources. Broken into tutorials and courses.
 - **UPenn - Statistical Learning Theory**
   - [Spring 2012](http://www-stat.wharton.upenn.edu/~rakhlin/courses/stat928/)
   - [Spring 2011](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
+- **[Stanford - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)**
+- **[Stanford - Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)**
 
 #### Blogs
 
