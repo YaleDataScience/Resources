@@ -47,6 +47,7 @@ This list is for data science resources. Broken into tutorials and courses.
 
 - [Quora](https://data.quora.com/)
 - [Airbnb](https://medium.com/airbnb-engineering/tagged/data-science)
+- [Facebook](https://research.fb.com/category/data-science/)
 
 #### Github Repos
 
@@ -64,6 +65,7 @@ This list is for data science resources. Broken into tutorials and courses.
 - [Airbnb Host Preferences](https://medium.com/airbnb-engineering/how-airbnb-uses-machine-learning-to-detect-host-preferences-18ce07150fa3#.5ndbflmot)
 - [Airbnb: Designing Machine Learning Models](https://medium.com/airbnb-engineering/designing-machine-learning-models-7d0048249e69#.br7natl1g)
 - **[Airbnb: Overcoming Missing Values in a RFC](http://nerds.airbnb.com/overcoming-missing-values-in-a-rfc/)**
+- **[Debugging Tensorflow](https://wookayin.github.io/tensorflow-talk-debugging/)**
 
 #### Courses
 
@@ -73,16 +75,30 @@ This list is for data science resources. Broken into tutorials and courses.
 - **[UC Berkeley - Deep RL](rll.berkeley.edu/deeprlcourse/)**
 - **[UCL - RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)**
 - **[Oxford - Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)**
+- **UC Berkeley - Special Topics in Deep Learning**
+  - [Spring 2017](https://berkeley-deep-learning.github.io/cs294-131-s17/)
+  - [Fall 2016](https://berkeley-deep-learning.github.io/cs294-dl-f16/)
+- [UC Berkeley - Intro to Advanced Statistics](https://www.stat.berkeley.edu/~yuekai/201b/)
+- **[Stanford - Convex Optimization](http://web.stanford.edu/class/ee364a/)**
+- **UC Berkeley - Advanced Topics in Statistical Learning Theory**
+  - [Spring 2009](https://people.eecs.berkeley.edu/~wainwrig/stat241b/)
+  - [Spring 2008](http://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
+- **UPenn - Statistical Learning Theory**
+  - [Spring 2012](http://www-stat.wharton.upenn.edu/~rakhlin/courses/stat928/)
+  - [Spring 2011](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
 
 #### Blogs
 
+- [Airbnb](https://medium.com/airbnb-engineering/tagged/machine-learning)
+- [Flipboard](http://engineering.flipboard.com/)
 - [OpenAI](https://openai.com/blog/)
 - **[DeepMind](http://deepmind.com/blog)**
-- [Airbnb](https://medium.com/airbnb-engineering/tagged/machine-learning)
+- **[FAIR](https://research.fb.com/category/data-science/)**
+- **[Facebook Applied ML](https://research.fb.com/category/applied-machine-learning/)**
 
 #### Github Repos
 
-- [Krishpop's Github Stars](https://github.com/krishpop?tab=stars)
+- [edges2cats](https://github.com/affinelayer/pix2pix-tensorflow)
 - **[OpenAI Gym Bandits](https://github.com/JKCooper2/gym-bandits)**
 
 ### Datasets
