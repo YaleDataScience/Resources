@@ -66,6 +66,7 @@ This list is for data science resources. Broken into tutorials and courses.
 - [Airbnb: Designing Machine Learning Models](https://medium.com/airbnb-engineering/designing-machine-learning-models-7d0048249e69#.br7natl1g)
 - **[Airbnb: Overcoming Missing Values in a RFC](http://nerds.airbnb.com/overcoming-missing-values-in-a-rfc/)**
 - **[Debugging Tensorflow](https://wookayin.github.io/tensorflow-talk-debugging/)**
+- **[Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)**
 
 #### Courses
 
